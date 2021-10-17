@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sam15966
-- 👀 I’m interested in ... Learning football
-- 🌱 I’m currently learning ... Shot and passing
-- 💞️ I’m looking to collaborate on ... Big football club
+- 👋 Hi, I’m Saeed Garba.
+- 👀 I’m interested in doing my Masters Degree
+- 🌱 I’m currently learning Mathematic.
+- 💞️ I’m looking to collaborate on Big University for scholarship.
 - 📫 How to reach me ... samsam15966@gmail.com
 
 <!---
